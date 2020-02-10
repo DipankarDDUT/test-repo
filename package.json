@@ -1,0 +1,9 @@
+{
+  "name": "pipedrive_copy",
+  "version": "1.0.0",
+  "description": "pipedrive_copy",
+  "dependencies": {
+    "request": "2.55.0",
+    "@webmethodsio/cli-sdk": "*"
+  }
+}

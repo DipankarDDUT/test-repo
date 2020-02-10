@@ -1,0 +1,16 @@
+{
+  "name": "pipedrive_copy",
+  "description": "pipedrive_copy",
+  "triggers": [],
+  "actions": [
+    "/v1/update_person",
+    "/v1/getid"
+  ],
+  "version": 1,
+  "auth_type": "custom",
+  "docs_link": "http://docs.example.com",
+  "lookup": true,
+  "appId": "63e8700b-f2e7-4985-9174-516116f8b3f8",
+  "guid": "62b4c9fc-b7d2-462f-9751-0dc71e90f57f",
+  "connectionUid": "pipedrive_copy_1581323666700"
+}
